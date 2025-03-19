@@ -43,7 +43,7 @@ Augustana University, Sioux Falls, SD
 * Promote interest in genetics and genetic counseling through networking with certified counselors and graduate students.
 * Assist undergraduates in exploring graduate school paths and preparing application materials.
 
-## ACE Ambassador (150+ hours)      							       2022-Current 
+## ACE Ambassador (200+ hours)      							       2022-Current 
 Augustana Cultural Exchange (ACE) Program, Sioux Falls, SD	                                                                  
 * Work with peer collaborators to guide small groups of new international students through a week-long new freshman international student orientation.
 * Advise new international students on facing college challenges and acclimating to life and school in the United States.
