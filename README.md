@@ -24,29 +24,29 @@ Augustana University, Sioux Falls, SD
 * Extract DNA from soil and root samples to support microbiome analysis, following protocols to avoid cross-contamination and ensure high-quality samples for downstream sequencing and accurate data interpretation.
 * Participate in poster presentations and scientific conventions to share findings and engage with the research community.
 
-Educational Outreach and Mentorship						          June 2023 – Current
+## Educational Outreach and Mentorship						          June 2023 – Current 
 Augustana University,  Sioux Falls, SD								
-Served on student panels and led campus tours at Brandon Valley High School, helping sophomores connect with AU campus and fostering meaningful community engagement.
-Mentored students and teachers from Wuhan Foreign Language School (China) during a two-week visit, providing insight into American university life and promoting an inclusive campus environment.
-Mentored high school students from St. Paul’s Catholic School during a month-long American culture immersion, providing guidance, support, and insights from an international student perspective while addressing questions and emergencies.
-Guided middle school students through laboratory experiments at Augustana STEM Camp, teaching scientific methods and fostering curiosity in STEM fields.
+*Served on student panels and led campus tours at Brandon Valley High School, helping sophomores connect with AU campus and fostering meaningful community engagement.
+* Mentored students and teachers from Wuhan Foreign Language School (China) during a two-week visit, providing insight into American university life and promoting an inclusive campus environment.
+* Mentored high school students from St. Paul’s Catholic School during a month-long American culture immersion, providing guidance, support, and insights from an international student perspective while addressing questions and emergencies.
+* Guided middle school students through laboratory experiments at Augustana STEM Camp, teaching scientific methods and fostering curiosity in STEM fields.
 
-Laboratory Assistant	                     	     		                                                     May 2023-Oct 2024
+## Laboratory Assistant	                     	     		                                                     May 2023-Oct 2024
 Sanford Health Blood Bank, Sioux Falls, SD
-Prepare packed red blood cells, fresh frozen plasma, platelet concentrates, and cryoprecipitate following AABB and FDA standards. 
+* Prepare packed red blood cells, fresh frozen plasma, platelet concentrates, and cryoprecipitate following AABB and FDA standards. 
 Utilize new technology such  as blood banking procedures change, understanding the use of the blood bank instrumentation and equipment. Demonstrate proficiency in the component laboratory.
 
-Leadership & Volunteer Experience 
+## Leadership & Volunteer Experience 
 Vice President, Pre-Genetic Counseling Club 				                   February 2024-Current
 Augustana University, Sioux Falls, SD
-Co-founded the Pre-Genetic Counseling Club, hosting monthly events for AU students.
-Promote interest in genetics and genetic counseling through networking with certified counselors and graduate students.
-Assist undergraduates in exploring graduate school paths and preparing application materials.
+* Co-founded the Pre-Genetic Counseling Club, hosting monthly events for AU students.
+* Promote interest in genetics and genetic counseling through networking with certified counselors and graduate students.
+* Assist undergraduates in exploring graduate school paths and preparing application materials.
 
-ACE Ambassador (150+ hours)      							       2022-Current 
+## ACE Ambassador (150+ hours)      							       2022-Current 
 Augustana Cultural Exchange (ACE) Program, Sioux Falls, SD	                                                                  
-Work with peer collaborators to guide small groups of new international students through a week-long new freshman international student orientation.
-Advise new international students on facing college challenges and acclimating to life and school in the United States.
+* Work with peer collaborators to guide small groups of new international students through a week-long new freshman international student orientation.
+* Advise new international students on facing college challenges and acclimating to life and school in the United States.
 
 Extracurricular & Sports Achievements
 2021-2022 NCAA National DII Qualifier
