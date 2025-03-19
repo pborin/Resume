@@ -1,10 +1,10 @@
 # Resume
                 Pedro da Rocha Borin
  +1 (605) 728-4467 | pdarochaborin21@ole.augie.edu
-Objective
+Objective/
 Motivated Biology and Bioinformatics student eager to apply data science skills in Python and R to analyze molecular datasets such as RNA-seq and DNA-seq. Passionate about contributing to innovative research and advancing scientific knowledge, I seek to bring my analytical expertise and enthusiasm to a dynamic team, supporting impactful projects and organizational goals.
 
-Education                                                                                                                         
+Education/                                                                                                                         
 Augustana University, Sioux Falls, SD      		                                          Expected Graduation: May 2025
 Bachelor of Arts, Biology & Bioinformatics; (Genetic Counseling emphasis)
 Minor: Mathematics
