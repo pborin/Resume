@@ -48,9 +48,9 @@ Augustana Cultural Exchange (ACE) Program, Sioux Falls, SD
 * Work with peer collaborators to guide small groups of new international students through a week-long new freshman international student orientation.
 * Advise new international students on facing college challenges and acclimating to life and school in the United States.
 
-Extracurricular & Sports Achievements
-2021-2022 NCAA National DII Qualifier
-2021-2022 Great Lakes Intercollegiate Athletic Conference Champion, 200y fly
-2022 International Superstar, Ole Espy Awards
-2023 IPO ACE Ambassador Honors - “Hard on his sleeves
+## Extracurricular & Sports Achievements
+* 2021-2022 NCAA National DII Qualifier
+* 2021-2022 Great Lakes Intercollegiate Athletic Conference Champion, 200y fly
+* 2022 International Superstar, Ole Espy Awards
+* 2023 IPO ACE Ambassador Honors - “Hard on his sleeves
   
