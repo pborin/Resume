@@ -10,19 +10,19 @@ Motivated Biology and Bioinformatics student eager to apply data science skills 
 * Bachelor of Arts, Biology & Bioinformatics; (Genetic Counseling emphasis) Minor: Mathematics
 * Relevant Coursework: Genomics & Transcriptomics, Genetics, Molecular Bio, Cellular Biology, Biostatistics, Biochemistry, Organic Chemistry, Intermediate Data Science, Calculus I & II, Statistics Using R, Applied Regression, Health Communication, and Ethics in America. 
                                                                                                                         
-# Laboratory Skills
+## Laboratory Skills
 * Molecular Techniques: PCR | qPCR | RNA-seq | Molecular Cloning | Western-blot | ELIZA | Spectrometry| SDS-PAGE| DNA extraction| SDS-PAGE| Pipetting.
 * Cellular Techniques: Centrifugation |Protein Purification | Cell Culturing (MCF-7)| Flow Cytometry| Microscopy| Spectrometry.
 * Bioinformatics Techniques: RStudio (2 years)| Python ( 4 months) | Bash (3 months)| Machine Learning Sklearn|Data management & visualization| Remote computing in Linux| Fastqc| BLAST| Graphpad.
 
 
-# Experiences
+## Experiences
 * Research Assistant	                     	  			                                      June 2024-Current
 Augustana University, Sioux Falls, SD
-Contribute to data collection in Dr. Olson-Manning's lab, focusing on research into biochemical pathway evolution in milkweed plant hybridization, with a primary emphasis on data analysis and RNA-seq.
-Perform de novo RNA-seq assembly using Trinity to analyze transcriptomes without a reference genome, aiding in gene expression studies.
-Extract DNA from soil and root samples to support microbiome analysis, following protocols to avoid cross-contamination and ensure high-quality samples for downstream sequencing and accurate data interpretation.
-Participate in poster presentations and scientific conventions to share findings and engage with the research community.
+* Contribute to data collection in Dr. Olson-Manning's lab, focusing on research into biochemical pathway evolution in milkweed plant hybridization, with a primary emphasis on data analysis and RNA-seq.
+* Perform de novo RNA-seq assembly using Trinity to analyze transcriptomes without a reference genome, aiding in gene expression studies.
+* Extract DNA from soil and root samples to support microbiome analysis, following protocols to avoid cross-contamination and ensure high-quality samples for downstream sequencing and accurate data interpretation.
+* Participate in poster presentations and scientific conventions to share findings and engage with the research community.
 
 Educational Outreach and Mentorship						          June 2023 – Current
 Augustana University,  Sioux Falls, SD								
